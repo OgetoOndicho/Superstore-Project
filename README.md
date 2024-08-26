@@ -12,9 +12,9 @@ The data used was from a secondary source: [https://www.kaggle.com]. The data wa
 ### Methodology
   #### 1. Data Cleaning
 In the initial data preparation, the following steps were accomplished
-- Removal of unnecessary columns
-- Properly fitting column width
-- Changing date formats and currency formats
+- Deletion of unnecessary columns
+- Adjusting column width
+- Date and currency formatting
 - Removal of duplicates
 
 #### 2. Data Analysis
