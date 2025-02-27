@@ -7,7 +7,7 @@ This Superstore Analysis Project is for an American-based Giant Retail store, wh
 The data used was from a secondary source: [https://www.kaggle.com]. The data was in a csv format, containing various variables of the Superstore dataset
 
 ### Tools Used
-- Microsoft Excel: Data cleaning, analysis and visualizations
+- Microsoft Excel was used for Data cleaning, exploratory analysis and visualizations
 
 ### Methodology
   #### 1. Data Cleaning
